@@ -1,0 +1,10 @@
+C:\Users\miss. sahar\Desktop\game2048\game2048\game2048\bin\Debug\game2048.exe.config
+C:\Users\miss. sahar\Desktop\game2048\game2048\game2048\bin\Debug\game2048.exe
+C:\Users\miss. sahar\Desktop\game2048\game2048\game2048\bin\Debug\game2048.pdb
+C:\Users\miss. sahar\Desktop\game2048\game2048\game2048\obj\Debug\game2048.csprojResolveAssemblyReference.cache
+C:\Users\miss. sahar\Desktop\game2048\game2048\game2048\obj\Debug\game2048.Form1.resources
+C:\Users\miss. sahar\Desktop\game2048\game2048\game2048\obj\Debug\game2048.Properties.Resources.resources
+C:\Users\miss. sahar\Desktop\game2048\game2048\game2048\obj\Debug\game2048.csproj.GenerateResource.Cache
+C:\Users\miss. sahar\Desktop\game2048\game2048\game2048\obj\Debug\game2048.csproj.CoreCompileInputs.cache
+C:\Users\miss. sahar\Desktop\game2048\game2048\game2048\obj\Debug\game2048.exe
+C:\Users\miss. sahar\Desktop\game2048\game2048\game2048\obj\Debug\game2048.pdb
